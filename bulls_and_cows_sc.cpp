@@ -78,7 +78,7 @@ void input(int _nInput[])
 		}
 }
 
-//Звiряємо числа
+//Порівнюємо числа
 void check(bool *_win, int _num[], int _nInput[])
 {
 	bool skipBulls[SIZE] = { 0,0,0,0 };
